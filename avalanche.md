@@ -47,8 +47,9 @@
 
 ## Liquid Staking
 
-- [Benqi sAVAX](https://staking.benqi.fi/) Liquid staking token representing staked AVAX with DeFi composability.
+- [Benqi sAVAX](https://benqi.fi/) Liquid staking token representing staked AVAX with DeFi composability.
   - [docs](https://docs.benqi.fi/benqi-liquid-staking/)
+  - [app](https://app.benqi.fi/)
 - [GoGoPool](https://www.gogopool.com/) Permissionless liquid staking protocol for Avalanche validators.
   - [docs](https://docs.gogopool.com/)
   - [github](https://github.com/multisig-labs/gogopool)
