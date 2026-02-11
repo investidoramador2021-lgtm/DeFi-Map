@@ -1,47 +1,55 @@
-# DeFi on polygon(Matic Network)
-fork of Go Ethereum
-- [litepaper](https://matic.network/matic-litepaper.pdf)
+# DeFi on Polygon
+
 - [site](https://polygon.technology/)
-- [docs](https://docs.matic.network/)
+- [docs](https://docs.polygon.technology/)
 - [github](https://github.com/maticnetwork)
-- [explorer](https://explorer-mainnet.maticvigil.com/)
-- [faucet](https://faucet.matic.network/)
+- [explorer](https://polygonscan.com/)
 
-## Network
-### Mainnet
-```txt
-Name: Matic Mainnet 
-RPC URL: https://rpc-mainnet.maticvigil.com/
-Chain ID: 137
-Symbol: MATIC
-```
+---
 
-### Testnet
-```txt
-Name: Matic Mumbai Testnet
-RPC URL: https://rpc-mumbai.maticvigil.com/
-Chain ID: 80001
-Symbol: MATIC
-Explorer: https://testnet.bscscan.com
-```
+## Lending & Borrowing
 
-## [Faucet](https://faucet.matic.network/)
-
-## Projects
-[awesome](https://awesomepolygon.com/)
-- [InstaDApp](https://instadapp.io/) Scaling DeFi for users and developers with Smart Accounts.
-  - [docs](https://docs.instadapp.io/)
-  - [github](https://github.com/instadapp)
-- [Aave](https://app.aave.com/markets) Aave is an Open Source and Non-Custodial protocol to earn interest on deposits and borrow assets. The protocol features Flash Loans, the first uncollateralized loan in DeFi.
-  - [market](https://docs.aave.com/developers/deployed-contracts/matic-polygon-market)
-  - [whitepaper](https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf)
-  - [docs](https://docs.aave.com/portal/)
+- [Aave V3](https://aave.com/) Open-source, non-custodial liquidity protocol for earning interest and borrowing assets.
+  - [docs](https://aave.com/docs)
   - [github](https://github.com/aave)
-- [Curve](https://www.curve.fi/) Curve is an exchange liquidity pool on Ethereum designed for: extremely efficient stablecoin trading, low risk, supplemental fee income for liquidity providers, without an opportunity cost.
-  - [whitepaper](https://www.curve.fi/whitepaper)
-  - [github](https://github.com/curvefi/curve-contract-polygon)
-  - [docs](https://www.curve.fi/devdocs)
-- [Sushiswap](https://sushi.com/) SushiSwap is an automated market making (AMM) decentralized exchange (DEX) currently on the Ethereum blockchain. We are soon expanding our offerings with the BentoBox lending platform.
-  - [whitepaper](https://blog.crypto.com/defi-swap-whitepaper/)
-  - [docs](https://dev.sushi.com/)
-  - [github](https://github.com/sushiswap)
+- [Morpho](https://morpho.org/) Lending protocol with optimized rate matching and isolated markets.
+  - [docs](https://docs.morpho.org/)
+  - [github](https://github.com/morpho-org)
+- [Compound V3](https://compound.finance/) Algorithmic, autonomous interest rate protocol.
+  - [docs](https://docs.compound.finance/)
+  - [github](https://github.com/compound-finance)
+
+## DEX
+
+- [QuickSwap](https://quickswap.exchange/) Leading DEX on Polygon with concentrated liquidity.
+  - [github](https://github.com/QuickSwap)
+- [Uniswap](https://uniswap.org/) Decentralized trading protocol for automated liquidity provision.
+  - [docs](https://docs.uniswap.org/)
+  - [github](https://github.com/Uniswap)
+
+## RWA (Real World Assets)
+
+- [Ondo Finance](https://ondo.finance/) Institutional-grade tokenized real-world assets on-chain.
+  - [docs](https://docs.ondo.finance/)
+- [Spiko](https://www.spiko.io/) Tokenized money market fund shares on-chain.
+  - [github](https://github.com/spiko-tech)
+- [BlackRock BUIDL](https://securitize.io/blackrock/buidl) Tokenized fund by BlackRock distributed via Securitize.
+- [Tangible RWA](https://www.tangible.store/) Tokenized real-world assets marketplace.
+  - [docs](https://docs.tangible.store/)
+
+## Prediction Markets
+
+- [Polymarket](https://polymarket.com/) Decentralized prediction market platform.
+  - [docs](https://docs.polymarket.com/)
+  - [github](https://github.com/polymarket)
+
+## Yield
+
+- [Overnight Finance](https://overnight.fi/) Yield protocol providing USD+ stablecoin with daily yield.
+  - [docs](https://docs.overnight.fi/)
+
+## Bridge
+
+- [SolvBTC](https://solv.finance/) Bitcoin yield and liquidity protocol.
+  - [docs](https://docs.solv.finance/)
+  - [github](https://github.com/solv-finance)

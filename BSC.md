@@ -1,45 +1,54 @@
-# DeFi on Binance Smart Chain
-A Binance Smart Chain client based on the go-ethereum fork
+# DeFi on BNB Smart Chain (BSC)
 
-- [whitepaper](https://github.com/binance-chain/whitepaper/blob/master/WHITEPAPER.md)
-- [github](https://github.com/binance-chain/bsc)
-- [Explorer](https://bscscan.com/)
-- [Testnet Faucet](https://testnet.binance.org/faucet-smart)
+- [site](https://www.bnbchain.org/)
+- [docs](https://docs.bnbchain.org/)
+- [github](https://github.com/bnb-chain)
+- [explorer](https://bscscan.com/)
 
+---
 
-## Network
-### Mainnet
-```txt
-Name: Smart Chain
-RPC URL: https://bsc-dataseed.binance.org/
-Chain ID: 56
-Symbol: BNB
-```
+## DEX
 
-### Testnet
-```txt
-Name: Smart Chain - Testnet
-RPC URL: https://data-seed-prebsc-1-s1.binance.org:8545/
-Chain ID: 97
-Symbol: BNB
-Explorer: https://testnet.bscscan.com
-```
-
-## [Faucet](https://testnet.binance.org/faucet-smart)
-- https://testnet.binance.org/faucet-smart
-
-## Projects
-- [PancakeSwap](https://pancakeswap.finance/) PancakeSwap is a decentralized exchange running on Binance Smart Chain, with lots of other features that let you earn and win tokens. 
+- [PancakeSwap](https://pancakeswap.finance/) Leading multi-chain DEX with AMM, farming, and lottery.
   - [docs](https://docs.pancakeswap.finance/)
   - [github](https://github.com/pancakeswap)
-- [Beefy Finance](https://beefy.finance/) Yield Optimizer On Binance Smart Chain.
-  - [docs](https://docs.beefy.finance/beefyfinance/)
+- [Uniswap V3](https://uniswap.org/) Decentralized trading protocol for automated liquidity provision.
+  - [docs](https://docs.uniswap.org/)
+  - [github](https://github.com/Uniswap)
+
+## Lending & Borrowing
+
+- [Venus](https://venus.io/) Decentralized money market and stablecoin protocol on BSC.
+  - [docs](https://docs-v4.venus.io/)
+  - [github](https://github.com/VenusProtocol)
+- [Aave V3](https://aave.com/) Open-source, non-custodial liquidity protocol for earning interest and borrowing assets.
+  - [docs](https://aave.com/docs)
+  - [github](https://github.com/aave)
+
+## Liquid Staking
+
+- [Lista DAO](https://lista.org/) Liquid staking and CDP protocol on BSC.
+  - [docs](https://docs.bsc.lista.org/)
+  - [github](https://github.com/lista-dao)
+
+## Yield
+
+- [Beefy](https://beefy.finance/) Multi-chain yield optimizer.
+  - [docs](https://docs.beefy.finance/)
   - [github](https://github.com/beefyfinance)
-- [BurgerSwap](https://burgerswap.org/)
-  - [github](https://github.com/burgerswap-org/burgerswap-core)
-- [Value DeFi](https://bsc.valuedefi.io/#/)
-  - [docs](https://docs.valuedefi.io/)
-  - [github](https://github.com/valuedefi)
-- [Badger.finance](https://app.badger.finance/)
-  - [docs](https://app.gitbook.com/@badger-finance/s/badger-finance/)
-  - [github](https://github.com/Badger-Finance)
+
+## Bridge
+
+- [Stargate](https://stargate.finance/) Cross-chain bridge protocol powered by LayerZero.
+  - [docs](https://stargateprotocol.gitbook.io/stargate)
+  - [github](https://github.com/stargate-protocol)
+- [LayerZero](https://layerzero.network/) Omnichain interoperability protocol.
+  - [docs](https://docs.layerzero.network/)
+  - [github](https://github.com/LayerZero-Labs)
+
+## Others
+
+- [Thena](https://thena.fi/) Liquidity layer and DEX on BSC with ve(3,3) tokenomics.
+  - [docs](https://docs.thena.fi/)
+- [Wombat Exchange](https://www.wombat.exchange/) Multi-chain stableswap DEX.
+  - [github](https://github.com/wombat-exchange)
