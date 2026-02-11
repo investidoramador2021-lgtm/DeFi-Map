@@ -10,13 +10,16 @@ A curated list of DeFi (Decentralized Finance) protocols across major blockchain
 
 - [Arbitrum](/l2/arbitrum.md)
 - [Base](/l2/base.md)
+- [Optimism](/l2/optimism.md)
 - [Starknet](/l2/starknet.md)
 
 ### Alt L1 & Sidechains
 
-- [Solana](/solana.md)
-- [Polygon](/polygon.md)
+- [Avalanche](/avalanche.md)
 - [BSC](/bsc.md)
+- [Polygon](/polygon.md)
+- [Solana](/solana.md)
+- [Sui](/sui.md)
 
 <!-- markdown-link-check-enable -->
 
