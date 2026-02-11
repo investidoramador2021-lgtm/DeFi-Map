@@ -1,9 +1,9 @@
 # DeFi on Avalanche
 
 - [site](https://www.avax.network/)
-- [docs](https://docs.avax.network/)
+- [docs](https://build.avax.network/)
 - [github](https://github.com/ava-labs)
-- [explorer](https://snowtrace.io/)
+- [explorer](https://subnets.avax.network/c-chain)
 
 ---
 
@@ -29,6 +29,12 @@
 - [Uniswap](https://uniswap.org/) Decentralized trading protocol for automated liquidity provision.
   - [docs](https://docs.uniswap.org/)
   - [github](https://github.com/Uniswap)
+- [Curve](https://curve.finance/) Stablecoin and pegged-asset optimized DEX.
+  - [docs](https://resources.curve.finance/)
+  - [github](https://github.com/curvefi)
+- [Balancer](https://balancer.fi/) Programmable liquidity protocol with weighted pools.
+  - [docs](https://docs.balancer.fi/)
+  - [github](https://github.com/balancer)
 - [Pangolin](https://pangolin.exchange/) Community-driven multichain DEX on Avalanche.
   - [docs](https://docs.pangolin.exchange/)
   - [github](https://github.com/pangolindex)
@@ -56,12 +62,14 @@
 
 ## Yield
 
-- [Yield Yak](https://yieldyak.com/) Auto-compounding yield optimizer on Avalanche.
+- [Yield Yak](https://yieldyak.com/) Leading auto-compounding yield optimizer on Avalanche.
   - [docs](https://docs.yieldyak.com/)
   - [github](https://github.com/yieldyak)
-- [Beefy](https://beefy.finance/) Multi-chain yield optimizer.
+- [Beefy](https://beefy.finance/) Multi-chain yield optimizer with auto-compounding.
   - [docs](https://docs.beefy.finance/)
   - [github](https://github.com/beefyfinance)
+- [Vector Finance](https://vectorfinance.io/) Yield aggregator for boosted rewards.
+  - [docs](https://vectorfinance.gitbook.io/vectorfinance)
 
 ## Bridge
 

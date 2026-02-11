@@ -66,9 +66,6 @@ A curated list of DeFi (Decentralized Finance) protocols across major blockchain
 - [Balancer](https://balancer.fi/) Programmable liquidity protocol enabling weighted pools and customizable AMM strategies.
   - [docs](https://docs.balancer.fi/)
   - [github](https://github.com/balancer)
-- [SushiSwap](https://sushi.com/) Multi-chain DEX with swap aggregation and concentrated liquidity.
-  - [docs](https://docs.sushi.com/)
-  - [github](https://github.com/sushiswap)
 - [CoW Protocol](https://cow.fi/) MEV-protected trading protocol using batch auctions for optimal settlement.
   - [docs](https://docs.cow.fi/)
   - [github](https://github.com/cowprotocol)
@@ -86,12 +83,12 @@ A curated list of DeFi (Decentralized Finance) protocols across major blockchain
 - [Lido](https://lido.fi/) Liquid staking solution for ETH backed by industry-leading staking providers.
   - [docs](https://docs.lido.fi/)
   - [github](https://github.com/lidofinance)
-- [EigenLayer](https://www.eigencloud.xyz/) Restaking and verifiable compute infrastructure protocol for Ethereum.
-  - [docs](https://docs.eigencloud.xyz/)
+- [EigenLayer](https://www.eigenlayer.xyz/) Restaking protocol enabling ETH stakers to secure multiple services simultaneously.
+  - [docs](https://docs.eigenfoundation.org/)
   - [github](https://github.com/Layr-Labs)
 - [ether.fi](https://www.ether.fi/) Decentralized, non-custodial liquid staking and restaking protocol.
   - [github](https://github.com/etherfi-protocol)
-- [Binance staked ETH (wBETH)](https://www.binance.com/en/wbeth) Liquid staking token for ETH provided by Binance.
+- [Binance staked ETH (wBETH)](https://www.binance.com/en/eth2) Liquid staking token for ETH provided by Binance.
 - [Obol](https://obol.org/) Distributed validator technology for Ethereum staking.
   - [docs](https://docs.obol.org/)
   - [github](https://github.com/ObolNetwork)
@@ -115,13 +112,20 @@ A curated list of DeFi (Decentralized Finance) protocols across major blockchain
 - [StakeWise](https://stakewise.io/) Liquid staking for DeFi natives, solo stakers, and institutions with osETH.
   - [docs](https://docs.stakewise.io/)
   - [github](https://github.com/stakewise)
+- [mETH Protocol](https://www.mantle.xyz/meth) Liquid staking token for ETH provided by Mantle.
+  - [docs](https://docs.mantle.xyz/meth)
+- [Stader ETHx](https://www.staderlabs.com/) Permissionless liquid staking protocol with ETHx token.
+  - [docs](https://www.staderlabs.com/docs-v1/)
+  - [github](https://github.com/stader-labs)
+- [Frax Ether](https://frax.finance/) Liquid staking derivative offering sfrxETH with competitive yields.
+  - [docs](https://docs.frax.finance/)
+  - [github](https://github.com/FraxFinance)
 
 ### Stablecoins & Basis Trading
 
 - [Ethena](https://ethena.fi/) Synthetic dollar protocol providing the crypto-native stablecoin USDe.
   - [docs](https://docs.ethena.fi/)
   - [github](https://github.com/ethena-labs)
-- [Falcon Finance](https://falcon.finance/) Universal collateralization infrastructure for issuing on-chain liquidity.
 
 ### RWA (Real World Assets)
 
@@ -136,7 +140,7 @@ A curated list of DeFi (Decentralized Finance) protocols across major blockchain
 
 - [USDT0](https://usdt0.to/) Tether's omnichain stablecoin powered by LayerZero.
   - [docs](https://docs.usdt0.to/)
-- [Arbitrum Bridge](https://portal.arbitrum.io/bridge/) Official bridge between Ethereum and Arbitrum.
+- [Arbitrum Bridge](https://bridge.arbitrum.io/) Official bridge between Ethereum and Arbitrum.
 - [Base Bridge](https://superbridge.app/base) Bridge between Ethereum and Base via Superbridge.
 - [Wormhole](https://wormhole.com/) Cross-chain messaging and token bridge protocol connecting 30+ blockchain networks.
   - [docs](https://docs.wormhole.com/)

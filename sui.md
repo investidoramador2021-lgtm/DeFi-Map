@@ -24,14 +24,16 @@
 - [Cetus](https://www.cetus.zone/) Leading concentrated liquidity DEX on Sui with Auto Vault LP.
   - [docs](https://cetus-1.gitbook.io/cetus-docs)
   - [github](https://github.com/CetusProtocol)
-- [Turbos Finance](https://turbos.finance/) Zero-slippage DEX with concentrated liquidity on Sui.
-  - [docs](https://docs.turbos.finance/)
+- [DeepBook](https://deepbook.tech/) Native on-chain order book DEX on Sui.
+  - [github](https://github.com/MystenLabs/deepbookv3)
+- [Turbos Finance](https://turbos.finance/) DEX with concentrated liquidity and perpetuals on Sui.
+  - [docs](https://turbos.gitbook.io/turbos)
   - [github](https://github.com/turbos-finance)
 - [Aftermath Finance](https://aftermath.finance/) DEX aggregator with liquid staking via afSUI.
   - [docs](https://docs.aftermath.finance/)
   - [github](https://github.com/AftermathFinance)
-- [BlueMove](https://sui.bluemove.net/) NFT marketplace and DEX super app on Sui.
-  - [dex](https://dex.bluemove.net/)
+- [Kriya](https://app.kriya.finance/) DEX with spot trading and perpetuals on Sui.
+  - [docs](https://docs.kriya.finance/)
 - [FlowX Finance](https://flowx.finance/) AMM DEX with concentrated liquidity on Sui.
   - [docs](https://docs.flowx.finance/)
   - [github](https://github.com/FlowX-Finance)
@@ -42,8 +44,8 @@
   - [docs](https://volosui.gitbook.io/volo)
 - [Aftermath afSUI](https://aftermath.finance/) Liquid staking token with DeFi yield optimization.
   - [docs](https://docs.aftermath.finance/)
-- [Haedal](https://haedal.xyz/) Liquid staking protocol on Sui.
-  - [docs](https://docs.haedal.xyz/)
+- [Haedal](https://www.haedal.xyz/) Liquid staking protocol on Sui with haSUI token.
+  - [docs](https://haedal-protocol.gitbook.io/haedal-protocol-docs)
   - [github](https://github.com/haedal-xyz)
 - [SpringSui](https://springsui.com/) Infinitely liquid staking protocol by Suilend with sSUI.
   - [docs](https://docs.suilend.fi/springsui)
@@ -51,16 +53,22 @@
 ## Derivatives
 
 - [Bluefin](https://bluefin.io/) Order book perpetual exchange on Sui with low latency trading.
-  - [docs](https://docs.bluefin.io/)
+  - [docs](https://learn.bluefin.io/)
   - [github](https://github.com/fireflyprotocol)
-- [Astros](https://astros.ag/) Perpetual DEX with deep integration to NAVI Protocol lending capital.
-  - [docs](https://naviprotocol.gitbook.io/navi-protocol-docs)
+- [Typus Finance](https://typus.finance/) Options and structured products protocol on Sui.
+  - [docs](https://docs.typus.finance/)
+  - [github](https://github.com/Typus-Lab)
 
-## Yield
+## CDP & Stablecoins
 
 - [Bucket Protocol](https://bucketprotocol.io/) CDP protocol for minting BUCK stablecoin on Sui.
   - [docs](https://docs.bucketprotocol.io/)
   - [github](https://github.com/Bucket-Protocol)
+
+## Yield
+
+- [Kai Finance](https://kai.finance/) BTCFi and leveraged yield protocol on Sui.
+  - [docs](https://docs.kai.finance/)
 
 ## Bridge
 

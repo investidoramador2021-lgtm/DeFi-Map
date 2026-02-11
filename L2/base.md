@@ -9,7 +9,7 @@
 
 ## Lending & Borrowing
 
-- [Morpho](https://morpho.org/) Lending protocol with optimized rate matching and isolated markets.
+- [Morpho](https://morpho.org/) Largest lending protocol on Base with $1.8B+ TVL via Coinbase integration.
   - [docs](https://docs.morpho.org/)
   - [github](https://github.com/morpho-org)
 - [Aave V3](https://aave.com/) Open-source, non-custodial liquidity protocol for earning interest and borrowing assets.
@@ -18,6 +18,12 @@
 - [Moonwell](https://moonwell.fi/) Open lending and borrowing protocol on Base.
   - [docs](https://docs.moonwell.fi/)
   - [github](https://github.com/moonwell-fi)
+- [Seamless Protocol](https://seamlessprotocol.com/) Native Base lending protocol with integrated leverage tokens.
+  - [docs](https://docs.seamlessprotocol.com/)
+  - [github](https://github.com/seamless-protocol)
+- [Compound V3](https://compound.finance/) Algorithmic, autonomous interest rate protocol.
+  - [docs](https://docs.compound.finance/)
+  - [github](https://github.com/compound-finance)
 - [Fluid](https://fluid.io/) Unified lending and DEX protocol.
   - [docs](https://docs.fluid.instadapp.io/)
   - [github](https://github.com/Instadapp)
@@ -30,37 +36,60 @@
 - [Uniswap](https://uniswap.org/) Decentralized trading protocol for automated liquidity provision.
   - [docs](https://docs.uniswap.org/)
   - [github](https://github.com/Uniswap)
+- [Balancer](https://balancer.fi/) Programmable liquidity protocol with weighted pools.
+  - [docs](https://docs.balancer.fi/)
+  - [github](https://github.com/balancer)
+- [Curve](https://curve.finance/) Stablecoin and pegged-asset optimized DEX.
+  - [docs](https://resources.curve.finance/)
+  - [github](https://github.com/curvefi)
 
 ## Derivatives
 
-- [Avantis](https://www.avantisfi.com/) Leveraged trading protocol on Base.
-  - [docs](https://docs.avantisfi.com/)
-  - [github](https://github.com/Avantis-Labs)
+- [Gains Network (gTrade)](https://gains.trade/) Decentralized leveraged trading platform.
+  - [docs](https://docs.gains.trade/)
+  - [github](https://github.com/GainsNetwork)
 
 ## Liquid Staking & Restaking
 
-- [ether.fi](https://www.ether.fi/) Decentralized, non-custodial liquid staking and restaking protocol.
-  - [github](https://github.com/etherfi-protocol)
-- [Kelp DAO](https://kerneldao.com/kelp/) Multi-chain liquid restaking protocol.
+- [Origin Super OETH](https://www.oeth.com/) Yield-generating liquid staking token on Base.
+  - [docs](https://docs.oeth.com/)
+  - [github](https://github.com/OriginProtocol)
+- [cbETH (Coinbase)](https://www.coinbase.com/cbeth) Coinbase wrapped staked ETH on Base.
+- [wstETH (Lido)](https://lido.fi/) Wrapped staked ETH available on Base.
+  - [docs](https://docs.lido.fi/)
+- [Kelp DAO](https://kerneldao.com/kelp/) Multi-chain liquid restaking protocol with rsETH.
   - [docs](https://kelp.gitbook.io/kelp)
   - [github](https://github.com/Kelp-DAO)
+- [Renzo](https://www.renzoprotocol.com/) Liquid restaking protocol with ezETH.
+  - [docs](https://docs.renzoprotocol.com/)
+  - [github](https://github.com/Renzo-Protocol)
 
 ## Yield
 
-- [Multipli](https://multipli.fi/) Automated yield optimization protocol on Base.
-  - [docs](https://docs.multipli.fi/)
-- [YO Protocol](https://www.yo.xyz/) Yield optimization protocol.
+- [Overnight USD+](https://overnight.fi/) Yield-generating stablecoin with daily payouts.
+  - [docs](https://docs.overnight.fi/)
+- [Extra Finance](https://extra.finance/) Leveraged yield farming with up to 3x leverage.
+  - [docs](https://docs.extrafi.io/)
+- [Beefy](https://beefy.finance/) Multi-chain yield optimizer with auto-compounding.
+  - [docs](https://docs.beefy.finance/)
+  - [github](https://github.com/beefyfinance)
+- [Pendle](https://www.pendle.finance/) Yield trading protocol for tokenizing future yield.
+  - [docs](https://docs.pendle.finance/)
+  - [github](https://github.com/pendle-finance)
+- [Superform](https://superform.xyz/) Cross-chain yield aggregator.
+  - [docs](https://docs.superform.xyz/)
 
-## RWA (Real World Assets)
+## Bridge
 
-- [Anemoy](https://www.anemoy.io/) Tokenized real-world asset protocol.
-- [Anzen](https://anzen.finance/) Real-world asset backed stablecoin and yield protocol.
-  - [docs](https://docs.anzen.finance/)
-- [Tangible RWA](https://www.tangible.store/) Tokenized real-world assets marketplace.
-  - [docs](https://docs.tangible.store/)
+- [Stargate](https://stargate.finance/) Cross-chain bridge protocol powered by LayerZero.
+  - [docs](https://stargateprotocol.gitbook.io/stargate)
+  - [github](https://github.com/stargate-protocol)
 
 ## Others
 
 - [DeFi Saver](https://defisaver.com/) Advanced DeFi management and CDP automation tool.
   - [docs](https://docs.defisaver.com/)
   - [github](https://github.com/defisaver)
+- [dHEDGE](https://dhedge.org/) Decentralized asset management protocol.
+  - [docs](https://docs.dhedge.org/)
+  - [github](https://github.com/dhedge)

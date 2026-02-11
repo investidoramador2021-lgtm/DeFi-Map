@@ -21,11 +21,21 @@
 
 ## DEX
 
-- [QuickSwap](https://quickswap.exchange/) Leading DEX on Polygon with concentrated liquidity.
-  - [github](https://github.com/QuickSwap)
 - [Uniswap](https://uniswap.org/) Decentralized trading protocol for automated liquidity provision.
   - [docs](https://docs.uniswap.org/)
   - [github](https://github.com/Uniswap)
+- [Curve](https://curve.finance/) Stablecoin and pegged-asset optimized DEX.
+  - [docs](https://resources.curve.finance/)
+  - [github](https://github.com/curvefi)
+- [QuickSwap](https://quickswap.exchange/) Leading native DEX on Polygon with concentrated liquidity.
+  - [docs](https://docs.quickswap.exchange/)
+  - [github](https://github.com/QuickSwap)
+- [Balancer](https://balancer.fi/) Programmable liquidity protocol with weighted pools.
+  - [docs](https://docs.balancer.fi/)
+  - [github](https://github.com/balancer)
+- [SushiSwap](https://sushi.com/) Multi-chain DEX with swap aggregation.
+  - [docs](https://docs.sushi.com/)
+  - [github](https://github.com/sushiswap)
 
 ## RWA (Real World Assets)
 
@@ -43,13 +53,27 @@
   - [docs](https://docs.polymarket.com/)
   - [github](https://github.com/polymarket)
 
+## Liquid Staking
+
+- [Stader (MaticX)](https://www.staderlabs.com/) Liquid staking protocol for MATIC with MaticX token.
+  - [docs](https://www.staderlabs.com/docs-v1/)
+  - [github](https://github.com/stader-labs)
+- [Lido (stMATIC)](https://lido.fi/) Liquid staking solution for MATIC.
+  - [docs](https://docs.lido.fi/)
+
 ## Yield
 
 - [Overnight Finance](https://overnight.fi/) Yield protocol providing USD+ stablecoin with daily yield.
   - [docs](https://docs.overnight.fi/)
+- [Beefy](https://beefy.finance/) Multi-chain yield optimizer with auto-compounding.
+  - [docs](https://docs.beefy.finance/)
+  - [github](https://github.com/beefyfinance)
+- [Pendle](https://www.pendle.finance/) Yield trading protocol for tokenizing future yield.
+  - [docs](https://docs.pendle.finance/)
+  - [github](https://github.com/pendle-finance)
 
 ## Bridge
 
-- [SolvBTC](https://solv.finance/) Bitcoin yield and liquidity protocol.
-  - [docs](https://docs.solv.finance/)
-  - [github](https://github.com/solv-finance)
+- [Stargate](https://stargate.finance/) Cross-chain bridge protocol powered by LayerZero.
+  - [docs](https://stargateprotocol.gitbook.io/stargate)
+  - [github](https://github.com/stargate-protocol)

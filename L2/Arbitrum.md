@@ -9,12 +9,9 @@
 
 ## Lending & Borrowing
 
-- [Aave V3](https://aave.com/) Open-source, non-custodial liquidity protocol for earning interest and borrowing assets.
+- [Aave V3](https://aave.com/) Dominant lending protocol on Arbitrum with ~42% of chain TVL.
   - [docs](https://aave.com/docs)
   - [github](https://github.com/aave)
-- [Morpho](https://morpho.org/) Lending protocol with optimized rate matching and isolated markets.
-  - [docs](https://docs.morpho.org/)
-  - [github](https://github.com/morpho-org)
 - [Fluid](https://fluid.io/) Unified lending and DEX protocol.
   - [docs](https://docs.fluid.instadapp.io/)
   - [github](https://github.com/Instadapp)
@@ -24,6 +21,9 @@
 - [Dolomite](https://dolomite.io/) Margin trading and lending protocol with virtual liquidity.
   - [docs](https://docs.dolomite.io/)
   - [github](https://github.com/dolomite-exchange)
+- [Silo Finance](https://silo.finance/) Isolated lending markets for long-tail assets.
+  - [docs](https://docs.silo.finance/)
+  - [github](https://github.com/silo-finance)
 
 ## DEX
 
@@ -33,18 +33,27 @@
 - [Camelot](https://app.camelot.exchange/) Arbitrum-native DEX with custom liquidity infrastructure.
   - [docs](https://docs.camelot.exchange/)
   - [github](https://github.com/CamelotLabs)
+- [Curve](https://curve.finance/) Stablecoin and pegged-asset optimized DEX.
+  - [docs](https://resources.curve.finance/)
+  - [github](https://github.com/curvefi)
+- [Balancer](https://balancer.fi/) Programmable liquidity protocol with weighted pools.
+  - [docs](https://docs.balancer.fi/)
+  - [github](https://github.com/balancer)
+- [Ramses Exchange](https://ramses.exchange/) ve(3,3) DEX native to Arbitrum.
+  - [docs](https://docs.ramses.exchange/)
+  - [github](https://github.com/RamsesExchange)
 
 ## Derivatives
 
-- [GMX V2](https://gmx.io/) Decentralized perpetual exchange with low fees and minimal price impact.
+- [GMX V2](https://gmx.io/) Leading perpetual exchange on Arbitrum with low fees and minimal price impact.
   - [docs](https://docs.gmx.io/)
   - [github](https://github.com/gmx-io)
-- [Ostium](https://www.ostium.com/) Perpetual swaps protocol for real-world asset trading.
-  - [docs](https://ostium-labs.gitbook.io/ostium-docs)
-  - [github](https://github.com/0xOstium)
-- [Synthetix V3](https://synthetix.io/) Derivatives liquidity protocol providing on-chain exposure to a range of assets.
-  - [docs](https://docs.synthetix.io/)
-  - [github](https://github.com/Synthetixio)
+- [Gains Network (gTrade)](https://gains.trade/) Decentralized leveraged trading platform.
+  - [docs](https://docs.gains.trade/)
+  - [github](https://github.com/GainsNetwork)
+- [MUX Protocol](https://mux.network/) Derivatives aggregator optimizing trade execution across perp DEXs.
+  - [docs](https://docs.mux.network/)
+  - [github](https://github.com/mux-world)
 
 ## Liquid Staking & Restaking
 
@@ -72,9 +81,16 @@
 
 - [Hyperliquid Bridge](https://app.hyperliquid.xyz/) Bridge to Hyperliquid L1 perpetual exchange.
   - [docs](https://hyperliquid.gitbook.io/hyperliquid-docs)
+- [Stargate](https://stargate.finance/) Cross-chain bridge protocol powered by LayerZero.
+  - [docs](https://stargateprotocol.gitbook.io/stargate)
+  - [github](https://github.com/stargate-protocol)
+- [Synapse](https://synapseprotocol.com/) Cross-chain liquidity network and bridge.
+  - [docs](https://docs.synapseprotocol.com/)
+  - [github](https://github.com/synapsecns)
 
 ## RWA (Real World Assets)
 
+- [USD.AI](https://usd.ai/) Yield-bearing stablecoin backed by AI infrastructure financing.
+  - [docs](https://docs.usd.ai/)
 - [Spiko](https://www.spiko.io/) Tokenized money market fund shares on-chain.
   - [github](https://github.com/spiko-tech)
-- [xStocks](https://backed.fi/) Tokenized stocks and ETFs on-chain.

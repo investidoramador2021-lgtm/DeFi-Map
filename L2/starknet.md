@@ -9,29 +9,35 @@
 
 ## DEX
 
-- [Ekubo](https://ekubo.org/) Concentrated liquidity AMM on Starknet.
+- [Ekubo](https://ekubo.org/) Dominant concentrated liquidity AMM with 60% of Starknet AMM TVL.
   - [docs](https://docs.ekubo.org/)
   - [github](https://github.com/EkuboProtocol)
-- [mySwap](https://www.myswap.xyz/) Simple and intuitive AMM on Starknet.
-- [Nostra Pools](https://nostra.finance/) Lending and trading protocol on Starknet.
-  - [docs](https://docs.nostra.finance/)
-  - [github](https://github.com/nostrafinance)
-- [Haiko](https://www.haiko.xyz/) Automated liquidity strategies on Starknet.
-  - [docs](https://docs.haiko.xyz/)
-  - [github](https://github.com/haiko-xyz)
+- [mySwap](https://www.myswap.xyz/) AMM with concentrated liquidity on Starknet.
+  - [docs](https://docs.myswap.xyz/)
+- [JediSwap](https://www.jediswap.xyz/) Community-driven AMM on Starknet.
+  - [docs](https://docs.jediswap.xyz/)
+  - [github](https://github.com/jediswaplabs)
+- [AVNU](https://avnu.fi/) Leading DEX aggregator powering Starknet spot trading.
+  - [docs](https://docs.avnu.fi/)
+  - [github](https://github.com/avnu-labs)
+- [Fibrous](https://fibrous.finance/) Multi-path swap optimizer with batch trading.
+  - [docs](https://docs.fibrous.finance/)
 
 ## Lending & Borrowing
 
-- [Vesu](https://vesu.xyz/) Lending protocol on Starknet.
-  - [docs](https://docs.vesu.xyz/)
-  - [github](https://github.com/vesuxyz)
-- [Nostra Money Market](https://nostra.finance/) Lending and borrowing protocol on Starknet.
+- [Nostra](https://nostra.finance/) Crypto Super App with lending, stablecoin, and swap features.
   - [docs](https://docs.nostra.finance/)
   - [github](https://github.com/nostrafinance)
+- [Vesu](https://vesu.xyz/) Top lending platform on Starknet with strong growth.
+  - [docs](https://docs.vesu.xyz/)
+  - [github](https://github.com/vesuxyz)
 
 ## Derivatives
 
-- [Extended](https://app.extended.exchange/) Hyper-performant perpetual DEX on Starknet.
+- [Extended](https://extended.exchange/) Leading perpetual DEX on Starknet with 100x leverage and $100B+ volume.
+  - [docs](https://docs.extended.exchange/)
+- [Paradex](https://paradex.trade/) Zero-fee, privacy-focused perpetual DEX incubated by Paradigm.
+  - [docs](https://docs.paradex.trade/)
 
 ## Liquid Staking
 
@@ -41,11 +47,14 @@
 
 ## Yield
 
-- [Troves](https://troves.fi/) Yield aggregator on Starknet.
-- [Nimbora](https://www.nimbora.io/) Yield aggregation protocol on Starknet leveraging L1 strategies.
+- [Troves](https://troves.fi/) Yield aggregator embracing BTCFi strategies on Starknet.
+- [Re7](https://re7.capital/) Yield aggregator for passive Ekubo LP management.
+- [Nimbora](https://www.nimbora.io/) Omnichain 1-click yield strategy platform.
+- [STRKFarm](https://strkfarm.com/) Yield farming optimizer on Starknet.
 
-## CDP
+## CDP & Stablecoins
 
-- [Uncap Finance](https://uncap.finance/) CDP protocol for minting stablecoins on Starknet.
-  - [github](https://github.com/UncapLabs)
-- [Opus](https://www.opus.money/) Autonomous CDP protocol on Starknet.
+- [Opus](https://www.opus.money/) Autonomous CDP protocol with BTCFi integration and CASH stablecoin.
+  - [docs](https://docs.opus.money/)
+- [Nostra UNO](https://nostra.finance/) Native stablecoin from Nostra Finance.
+  - [docs](https://docs.nostra.finance/)

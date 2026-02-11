@@ -9,68 +9,70 @@
 
 ## Lending & Borrowing
 
-- [Aave V3](https://aave.com/) Open-source, non-custodial liquidity protocol for earning interest and borrowing assets.
+- [Aave V3](https://aave.com/) Dominant lending protocol on Optimism.
   - [docs](https://aave.com/docs)
   - [github](https://github.com/aave)
-- [Morpho](https://morpho.org/) Lending protocol with optimized rate matching and isolated markets.
-  - [docs](https://docs.morpho.org/)
-  - [github](https://github.com/morpho-org)
-- [Compound V3](https://compound.finance/) Algorithmic, autonomous interest rate protocol.
-  - [docs](https://docs.compound.finance/)
-  - [github](https://github.com/compound-finance)
-- [Sonne Finance](https://sonne.finance/) Native Optimism lending protocol forked from Compound.
+- [Sonne Finance](https://sonne.finance/) Native Optimism lending protocol with token incentives.
   - [docs](https://docs.sonne.finance/)
   - [github](https://github.com/sonne-finance)
-- [Exactly](https://exact.ly/) Fixed and variable rate lending protocol on Optimism.
+- [Exactly](https://exact.ly/) Fixed-rate lending protocol on Optimism.
   - [docs](https://docs.exact.ly/)
   - [github](https://github.com/exactly)
 
 ## DEX
 
-- [Velodrome](https://velodrome.finance/) Central trading and liquidity marketplace on Optimism, inspired by Solidly.
-  - [docs](https://docs.velodrome.finance/)
+- [Velodrome](https://velodrome.finance/) Central trading and liquidity marketplace on Optimism, merging with Aerodrome into Aero in 2026.
+  - [docs](https://velodrome.finance/docs)
   - [github](https://github.com/velodrome-finance)
 - [Uniswap](https://uniswap.org/) Decentralized trading protocol for automated liquidity provision.
   - [docs](https://docs.uniswap.org/)
   - [github](https://github.com/Uniswap)
+- [Curve](https://curve.finance/) Stablecoin and pegged-asset optimized DEX.
+  - [docs](https://resources.curve.finance/)
+  - [github](https://github.com/curvefi)
 
 ## Derivatives
 
-- [Synthetix V3](https://synthetix.io/) Derivatives liquidity protocol providing on-chain exposure to a range of assets.
-  - [docs](https://docs.synthetix.io/)
-  - [github](https://github.com/Synthetixio)
-- [Kwenta](https://kwenta.io/) Perpetual futures trading platform powered by Synthetix.
+- [Kwenta](https://kwenta.io/) Perpetual futures trading platform with $50B+ cumulative volume.
   - [docs](https://docs.kwenta.io/)
   - [github](https://github.com/Kwenta)
-- [Polynomial](https://polynomial.fi/) Derivatives trading protocol built on Synthetix.
+- [Perpetual Protocol](https://perp.com/) Decentralized perpetual futures DEX.
+  - [docs](https://docs.perp.com/)
+  - [github](https://github.com/perpetual-protocol)
+- [Pika Protocol](https://pikaprotocol.com/) Perpetual swaps with up to 200x leverage.
+  - [docs](https://pikaprotocol.gitbook.io/pika-protocol)
+- [Polynomial](https://polynomial.fi/) Automated derivative strategies protocol.
   - [docs](https://docs.polynomial.fi/)
-  - [github](https://github.com/polynomialfi)
 - [Derive (Lyra)](https://derive.xyz/) Options trading protocol with automated market making.
   - [docs](https://docs.derive.xyz/)
   - [github](https://github.com/lyra-finance)
+- [Thales](https://thales.io/) Digital options and sports betting markets.
+  - [docs](https://docs.thales.io/)
+  - [github](https://github.com/thales-markets)
 
 ## Liquid Staking & Restaking
 
-- [ether.fi](https://www.ether.fi/) Decentralized, non-custodial liquid staking and restaking protocol.
-  - [github](https://github.com/etherfi-protocol)
-- [Renzo](https://www.renzoprotocol.com/) Liquid restaking protocol built on EigenLayer.
-  - [docs](https://docs.renzoprotocol.com/)
-  - [github](https://github.com/Renzo-Protocol)
-- [Kelp DAO](https://kerneldao.com/kelp/) Multi-chain liquid restaking protocol.
-  - [docs](https://kelp.gitbook.io/kelp)
-  - [github](https://github.com/Kelp-DAO)
+- [wstETH (Lido)](https://lido.fi/) Wrapped staked ETH available on Optimism.
+  - [docs](https://docs.lido.fi/)
+- [rETH (Rocket Pool)](https://rocketpool.net/) Decentralized staked ETH on Optimism.
+  - [docs](https://docs.rocketpool.net/)
 
 ## Yield
 
+- [Extra Finance](https://extra.finance/) Leveraged yield farming with up to 3x leverage.
+  - [docs](https://docs.extrafi.io/)
 - [Pendle](https://www.pendle.finance/) Yield trading protocol enabling tokenization and trading of future yield.
   - [docs](https://docs.pendle.finance/)
   - [github](https://github.com/pendle-finance)
-- [Beefy](https://beefy.finance/) Multi-chain yield optimizer.
+- [Beefy](https://beefy.finance/) Multi-chain yield optimizer with auto-compounding.
   - [docs](https://docs.beefy.finance/)
   - [github](https://github.com/beefyfinance)
-- [Yearn](https://yearn.fi/) Yield aggregator and DeFi vault protocol.
-  - [docs](https://docs.yearn.fi/)
-  - [github](https://github.com/yearn)
+- [dHEDGE](https://dhedge.org/) Decentralized asset management protocol.
+  - [docs](https://docs.dhedge.org/)
+  - [github](https://github.com/dhedge)
+- [PoolTogether](https://pooltogether.com/) No-loss prize savings protocol.
+  - [docs](https://docs.pooltogether.com/)
+  - [github](https://github.com/pooltogether)
 
 ## Bridge
 
@@ -79,10 +81,12 @@
 - [Stargate](https://stargate.finance/) Cross-chain liquidity transport protocol with native asset transfers.
   - [docs](https://docs.stargate.finance/)
   - [github](https://github.com/stargate-protocol)
-
-## RWA (Real World Assets)
-
-- [Ondo Finance](https://ondo.finance/) Institutional-grade tokenized real-world assets on-chain.
-  - [docs](https://docs.ondo.finance/)
-- [Backed Finance](https://backed.fi/) Tokenized stocks and ETFs on-chain.
-  - [docs](https://docs.backed.fi/)
+- [Hop Protocol](https://hop.exchange/) Fast bridge for rollups and L2s.
+  - [docs](https://docs.hop.exchange/)
+  - [github](https://github.com/hop-protocol)
+- [Across](https://across.to/) Intent-based bridge for fast cross-chain transfers.
+  - [docs](https://docs.across.to/)
+  - [github](https://github.com/across-protocol)
+- [Synapse](https://synapseprotocol.com/) Cross-chain liquidity network.
+  - [docs](https://docs.synapseprotocol.com/)
+  - [github](https://github.com/synapsecns)
