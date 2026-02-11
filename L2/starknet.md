@@ -12,8 +12,6 @@
 - [Ekubo](https://ekubo.org/) Concentrated liquidity AMM on Starknet.
   - [docs](https://docs.ekubo.org/)
   - [github](https://github.com/EkuboProtocol)
-- [10KSwap](https://10kswap.com/) AMM DEX on Starknet.
-  - [github](https://github.com/10k-swap)
 - [mySwap](https://www.myswap.xyz/) Simple and intuitive AMM on Starknet.
 - [Nostra Pools](https://nostra.finance/) Lending and trading protocol on Starknet.
   - [docs](https://docs.nostra.finance/)
