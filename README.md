@@ -10,6 +10,7 @@ A curated list of DeFi (Decentralized Finance) protocols across major blockchain
 
 - [Arbitrum](/l2/arbitrum.md)
 - [Base](/l2/base.md)
+- [Ink](/l2/ink.md)
 - [Optimism](/l2/optimism.md)
 - [Starknet](/l2/starknet.md)
 
@@ -17,7 +18,10 @@ A curated list of DeFi (Decentralized Finance) protocols across major blockchain
 
 - [Avalanche](/avalanche.md)
 - [BSC](/bsc.md)
+- [Hyperliquid](/hyperliquid.md)
+- [Plasma](/plasma.md)
 - [Polygon](/polygon.md)
+- [Provenance](/provenance.md)
 - [Solana](/solana.md)
 - [Sui](/sui.md)
 
