@@ -1,4 +1,4 @@
-# Ethereum Mainnet
+# DeFi on Ethereum Mainnet
 
 ## Lending & Borrowing
 
