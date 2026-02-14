@@ -1,0 +1,33 @@
+{
+  "env": {
+    "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+  },
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "say 'done'"
+          },
+          {
+            "type": "command",
+            "command": "printf '\\e]9;done\\a' > /dev/tty"
+          }
+        ]
+      }
+    ],
+    "Notification": [
+      {
+        "matcher": "idle_prompt|permission_prompt",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "printf '\\e]9;attention\\a' > /dev/tty"
+          }
+        ]
+      }
+    ]
+  },
+  "plansDirectory": "./.claude/plans"
+}
