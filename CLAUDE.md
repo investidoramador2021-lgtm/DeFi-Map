@@ -12,7 +12,7 @@ DeFi-Map is an Awesome List-style documentation repository cataloging DeFi (Dece
 - `address.md` — Smart contract addresses and block explorer links
 - `polygon.md`, `bsc.md` — DeFi projects on specific sidechains
 - `solana.md` — DeFi projects on Solana
-- `l2/arbitrum.md`, `l2/base.md`, `l2/starknet.md` — DeFi projects on Layer 2 solutions
+- `arbitrum.md`, `base.md`, `ink.md`, `optimism.md`, `starknet.md` — DeFi projects on Layer 2 solutions
 
 ## CI/CD
 
