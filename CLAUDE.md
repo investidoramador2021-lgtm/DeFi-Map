@@ -8,11 +8,11 @@ DeFi-Map is an Awesome List-style documentation repository cataloging DeFi (Dece
 
 ## Repository Structure
 
-- `README.md` — Main index + Ethereum DeFi projects organized by category (Lending & Borrowing, DEX, Derivatives, Liquid Staking & Restaking, Stablecoins & Basis Trading, RWA, Bridge, Yield)
+- `README.md` — Main index linking to all chain-specific documentation
 - `address.md` — Smart contract addresses and block explorer links
-- `polygon.md`, `bsc.md` — DeFi projects on specific sidechains
-- `solana.md` — DeFi projects on Solana
-- `l2/arbitrum.md`, `l2/base.md`, `l2/starknet.md` — DeFi projects on Layer 2 solutions
+- `ethereum.md` — DeFi projects on Ethereum Mainnet
+- `arbitrum.md`, `base.md`, `ink.md`, `optimism.md`, `starknet.md` — DeFi projects on Layer 2 solutions
+- `avalanche.md`, `bsc.md`, `hyperliquid.md`, `plasma.md`, `polygon.md`, `provenance.md`, `solana.md`, `sui.md` — DeFi projects on Alt L1 & Sidechains
 
 ## CI/CD
 
