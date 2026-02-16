@@ -53,6 +53,24 @@ DeFi protocol smart contract addresses across major blockchain networks.
   - SUSHI Token: `0x6B3595068778DD592e39A122f4f5a5cF09C90fE2` - [Explorer](https://etherscan.io/token/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2)
 - CoW Protocol
   - GPv2Settlement: `0x9008D19f58AAbD9eD0D60971565AA8510560ab41` - [Explorer](https://etherscan.io/address/0x9008D19f58AAbD9eD0D60971565AA8510560ab41)
+- PancakeSwap
+  - Smart Router V3: `0x13f4EA83D0bd40E75C8222255bc855a974568Dd4` - [Explorer](https://etherscan.io/address/0x13f4EA83D0bd40E75C8222255bc855a974568Dd4)
+  - CAKE Token: `0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898` - [Explorer](https://etherscan.io/token/0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898)
+- 1inch
+  - AggregationRouterV6: `0x111111125421cA6dc452d289314280a0f8842A65` - [Explorer](https://etherscan.io/address/0x111111125421cA6dc452d289314280a0f8842A65)
+  - 1INCH Token: `0x111111111117dC0aa78b770fA6A738034120C302` - [Explorer](https://etherscan.io/token/0x111111111117dC0aa78b770fA6A738034120C302)
+- Maverick Protocol
+  - MaverickV2Router: `0x62e31802c6145A2D5E842EeD8efe01fC224422fA` - [Explorer](https://etherscan.io/address/0x62e31802c6145A2D5E842EeD8efe01fC224422fA)
+  - MAV Token: `0x7448c7456a97769F6cD04F1E83A4a23cCdC46aBD` - [Explorer](https://etherscan.io/token/0x7448c7456a97769F6cD04F1E83A4a23cCdC46aBD)
+- KyberSwap
+  - Meta Aggregation Router V2: `0x6131B5fae19EA4f9D964eAc0408E4408b66337b5` - [Explorer](https://etherscan.io/address/0x6131B5fae19EA4f9D964eAc0408E4408b66337b5)
+  - KNC Token: `0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202` - [Explorer](https://etherscan.io/token/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202)
+- DODO
+  - DODORouteProxy: `0xa2398842F37465f89540430bDC00219fA9E4D28a` - [Explorer](https://etherscan.io/address/0xa2398842F37465f89540430bDC00219fA9E4D28a)
+  - DODO Token: `0x43Dfc4159D86F3A37A5A4B3D4580b888ad7D4DDd` - [Explorer](https://etherscan.io/token/0x43Dfc4159D86F3A37A5A4B3D4580b888ad7D4DDd)
+- Velora (ParaSwap)
+  - Augustus V6.2: `0x6A000F20005980200259B80C5102003040001068` - [Explorer](https://etherscan.io/address/0x6A000F20005980200259B80C5102003040001068)
+  - PSP Token: `0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5` - [Explorer](https://etherscan.io/token/0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5)
 
 ### Derivatives
 
@@ -104,6 +122,11 @@ DeFi protocol smart contract addresses across major blockchain networks.
 - Frax Ether
   - frxETH: `0x5E8422345238F34275888049021821E8E08CAa1f` - [Explorer](https://etherscan.io/address/0x5E8422345238F34275888049021821E8E08CAa1f)
   - sfrxETH: `0xac3E018457B222d93114458476f3E3416Abbe38F` - [Explorer](https://etherscan.io/address/0xac3E018457B222d93114458476f3E3416Abbe38F)
+- Coinbase Wrapped Staked ETH
+  - cbETH: `0xBe9895146f7AF43049ca1c1AE358B0541Ea49704` - [Explorer](https://etherscan.io/address/0xBe9895146f7AF43049ca1c1AE358B0541Ea49704)
+- SSV Network
+  - SSV Token: `0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54` - [Explorer](https://etherscan.io/address/0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54)
+  - SSVNetwork (Core Contract): `0xDD9BC35aE942eF0cFa76930954a156B3fF30a4E1` - [Explorer](https://etherscan.io/address/0xDD9BC35aE942eF0cFa76930954a156B3fF30a4E1)
 
 ### Stablecoins & Basis Trading
 
@@ -114,6 +137,11 @@ DeFi protocol smart contract addresses across major blockchain networks.
 - Falcon Finance
   - USDf: `0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2` - [Explorer](https://etherscan.io/token/0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2)
   - sUSDf: `0xc8CF6D7991f15525488b2A83Df53468D682Ba4B0` - [Explorer](https://etherscan.io/address/0xc8CF6D7991f15525488b2A83Df53468D682Ba4B0)
+- Usual
+  - USD0: `0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5` - [Explorer](https://etherscan.io/address/0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5)
+  - USUAL Token: `0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E` - [Explorer](https://etherscan.io/address/0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E)
+- Resolv
+  - USR: `0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110` - [Explorer](https://etherscan.io/address/0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110)
 
 ### RWA (Real World Assets)
 
@@ -127,9 +155,15 @@ DeFi protocol smart contract addresses across major blockchain networks.
   - PAXG: `0x45804880De22913dAFE09f4980848ECE6EcbAf78` - [Explorer](https://etherscan.io/token/0x45804880De22913dAFE09f4980848ECE6EcbAf78)
 - BlackRock BUIDL
   - BUIDL: `0x7712c34205737192402172409a8F7ccef8aA2AEc` - [Explorer](https://etherscan.io/token/0x7712c34205737192402172409a8F7ccef8aA2AEc)
+- Centrifuge
+  - CFG Token: `0xCcCCccccCC33d538dBC2Ee4feaB0a7a1FF4e8a94` - [Explorer](https://etherscan.io/address/0xCcCCccccCC33d538dBC2Ee4feaB0a7a1FF4e8a94)
 
 ### Bridge
 
+- WBTC
+  - WBTC Token: `0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599` - [Explorer](https://etherscan.io/token/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599)
+- Coinbase Wrapped BTC (cbBTC)
+  - cbBTC Token: `0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf` - [Explorer](https://etherscan.io/address/0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf)
 - USDT0
   - OAdapterUpgradeable: `0x6C96dE32CEa08842dcc4058c14d3aaAD7Fa41dee` - [Explorer](https://etherscan.io/address/0x6C96dE32CEa08842dcc4058c14d3aaAD7Fa41dee)
 - Wormhole
@@ -141,6 +175,21 @@ DeFi protocol smart contract addresses across major blockchain networks.
 - Across Protocol
   - SpokePool: `0x5c7BCd6E7De5423a257D81B442095A1a6ced35C5` - [Explorer](https://etherscan.io/address/0x5c7BCd6E7De5423a257D81B442095A1a6ced35C5)
   - Hub Pool: `0xc186fA914353c44b2E33eBE05f21846F1048bEda` - [Explorer](https://etherscan.io/address/0xc186fA914353c44b2E33eBE05f21846F1048bEda)
+- Polygon Bridge
+  - RootChainManagerProxy: `0xa0c68C638235ee32657e8f720a23ceC1bFc77C77` - [Explorer](https://etherscan.io/address/0xa0c68C638235ee32657e8f720a23ceC1bFc77C77)
+- Scroll Bridge
+  - L1ScrollMessenger (Proxy): `0x6774Bcbd5ceCeF1336b5300fb5186a12DDD8b367` - [Explorer](https://etherscan.io/address/0x6774Bcbd5ceCeF1336b5300fb5186a12DDD8b367)
+- zkSync Bridge
+  - Diamond Proxy: `0x32400084C286CF3E17e7B677ea9583e60a000324` - [Explorer](https://etherscan.io/address/0x32400084C286CF3E17e7B677ea9583e60a000324)
+- StarkGate
+  - Starknet Core: `0xc662c410C0ECf747543f5bA90660f6ABeBD9C8c4` - [Explorer](https://etherscan.io/address/0xc662c410C0ECf747543f5bA90660f6ABeBD9C8c4)
+  - ETH Bridge: `0xae0Ee0A63A2cE6BaeEFFE56e7714FB4EFE48D419` - [Explorer](https://etherscan.io/address/0xae0Ee0A63A2cE6BaeEFFE56e7714FB4EFE48D419)
+- Mantle Bridge
+  - L1StandardBridge (Proxy): `0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012` - [Explorer](https://etherscan.io/address/0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012)
+- Linea Bridge
+  - LineaRollup (L1 Message Service): `0xd19d4B5d358258f05D7B411E21A1460D11B0876F` - [Explorer](https://etherscan.io/address/0xd19d4B5d358258f05D7B411E21A1460D11B0876F)
+- Blast Bridge
+  - L1BlastBridge (Proxy): `0x3a05E5d33d7Ab3864D53aaEc93c8301C1Fa49115` - [Explorer](https://etherscan.io/address/0x3a05E5d33d7Ab3864D53aaEc93c8301C1Fa49115)
 
 ### Yield
 
@@ -153,6 +202,22 @@ DeFi protocol smart contract addresses across major blockchain networks.
   - Booster: `0xF403C135812408BFbE8713b5A23a04b3D48AAE31` - [Explorer](https://etherscan.io/address/0xF403C135812408BFbE8713b5A23a04b3D48AAE31)
 - Yearn Finance
   - YFI Token: `0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e` - [Explorer](https://etherscan.io/token/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e)
+- Spark Liquidity Layer
+  - ALM Proxy: `0x1601843c5E9bC251A3272907010AFa41Fa18347E` - [Explorer](https://etherscan.io/address/0x1601843c5E9bC251A3272907010AFa41Fa18347E)
+- Aura Finance
+  - AURA Token: `0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF` - [Explorer](https://etherscan.io/address/0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF)
+  - Booster: `0xA57b8d98dAE62B26Ec3bcC4a365338157060B234` - [Explorer](https://etherscan.io/address/0xA57b8d98dAE62B26Ec3bcC4a365338157060B234)
+- Sommelier
+  - SOMM Token: `0xa670d7237398238DE01267472C6f13e5B8010FD1` - [Explorer](https://etherscan.io/address/0xa670d7237398238DE01267472C6f13e5B8010FD1)
+
+### Infrastructure
+
+- Chainlink
+  - Staking Pool (v0.2): `0xBc10f2E862ED4502144c7d632a3459F49DFCDB5e` - [Explorer](https://etherscan.io/address/0xBc10f2E862ED4502144c7d632a3459F49DFCDB5e)
+- Safe
+  - SafeProxyFactory 1.4.1: `0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67` - [Explorer](https://etherscan.io/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67)
+- Instadapp
+  - InstaIndex (Main Registry): `0x2971AdFa57b20E5a416aE5a708A8655A9c74f723` - [Explorer](https://etherscan.io/address/0x2971AdFa57b20E5a416aE5a708A8655A9c74f723)
 
 ### Insurance
 
