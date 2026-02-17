@@ -1,0 +1,57 @@
+name: List a DApp
+description: Suggest adding a new DApp to the list
+labels: ["add"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: DApp Name
+      placeholder: e.g., Uniswap
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official Website URL
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: dropdown
+    id: chain
+    attributes:
+      label: Blockchain Network
+      options:
+        - Ethereum
+        - Arbitrum
+        - Avalanche
+        - Base
+        - BSC
+        - Hyperliquid
+        - Ink
+        - Optimism
+        - Plasma
+        - Polygon
+        - Provenance
+        - Solana
+        - Starknet
+        - Sui
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Brief Description
+      placeholder: What does this DApp do?
+    validations:
+      required: true
+  - type: input
+    id: docs
+    attributes:
+      label: Documentation URL (optional)
+      placeholder: "https://docs.example.com"
+  - type: input
+    id: github
+    attributes:
+      label: GitHub URL (optional)
+      placeholder: "https://github.com/..."
