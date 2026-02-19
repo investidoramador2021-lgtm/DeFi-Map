@@ -12,16 +12,19 @@
 - [Aave V3](https://aave.com/) Dominant lending protocol on Optimism.
   - [docs](https://aave.com/docs)
   - [github](https://github.com/aave)
-- [Sonne Finance](https://sonne.finance/) Native Optimism lending protocol with token incentives.
+- [Compound V3](https://compound.finance/) Algorithmic, autonomous interest rate protocol.
+  - [docs](https://docs.compound.finance/)
+  - [github](https://github.com/compound-finance)
+- [Sonne Finance](https://sonne.finance/) Native Optimism lending protocol.
   - [docs](https://docs.sonne.finance/)
   - [github](https://github.com/sonne-finance)
-- [Exactly](https://exact.ly/) Fixed-rate lending protocol on Optimism.
+- [Exactly](https://exact.ly/) Fixed and variable rate lending protocol on Optimism.
   - [docs](https://docs.exact.ly/)
   - [github](https://github.com/exactly)
 
 ## DEX
 
-- [Velodrome](https://velodrome.finance/) Central trading and liquidity marketplace on Optimism, merging with Aerodrome into Aero in 2026.
+- [Velodrome](https://velodrome.finance/) Central trading and liquidity marketplace on Optimism, merging with Aerodrome into Aero in Q2 2026.
   - [docs](https://velodrome.finance/docs)
   - [github](https://github.com/velodrome-finance)
 - [Uniswap](https://uniswap.org/) Decentralized trading protocol for automated liquidity provision.
@@ -33,7 +36,7 @@
 
 ## Derivatives
 
-- [Kwenta](https://kwenta.io/) Perpetual futures trading platform with $50B+ cumulative volume.
+- [Kwenta](https://kwenta.io/) Perpetual futures trading platform built on Synthetix.
   - [docs](https://docs.kwenta.io/)
   - [github](https://github.com/Kwenta)
 - [Perpetual Protocol](https://perp.com/) Decentralized perpetual futures DEX.
@@ -54,16 +57,24 @@
 
 - [wstETH (Lido)](https://lido.fi/) Wrapped staked ETH available on Optimism.
   - [docs](https://docs.lido.fi/)
+- [weETH (ether.fi)](https://www.ether.fi/) Optimism's strategic liquid staking partner providing weETH integration across DeFi protocols.
+  - [github](https://github.com/etherfi-protocol)
 - [rETH (Rocket Pool)](https://rocketpool.net/) Decentralized staked ETH on Optimism.
   - [docs](https://docs.rocketpool.net/)
 
 ## Yield
 
-- [Extra Finance](https://extra.finance/) Leveraged yield farming with up to 3x leverage.
-  - [docs](https://docs.extrafi.io/)
+- [Spark Savings](https://spark.fi/) Savings protocol offering yield on USDS deposits via Sky Savings Rate.
+  - [docs](https://docs.spark.fi/)
+  - [github](https://github.com/sparkdotfi)
 - [Pendle](https://www.pendle.finance/) Yield trading protocol enabling tokenization and trading of future yield.
   - [docs](https://docs.pendle.finance/)
   - [github](https://github.com/pendle-finance)
+- [Spark Liquidity Layer](https://spark.fi/) Automated liquidity provisioning layer deploying USDS across DeFi protocols within the Sky ecosystem.
+  - [docs](https://docs.spark.fi/user-guides/spark-liquidity-layer)
+  - [github](https://github.com/sparkdotfi)
+- [Extra Finance](https://extra.finance/) Leveraged yield farming with up to 3x leverage.
+  - [docs](https://docs.extrafi.io/)
 - [Beefy](https://beefy.finance/) Multi-chain yield optimizer with auto-compounding.
   - [docs](https://docs.beefy.finance/)
   - [github](https://github.com/beefyfinance)
