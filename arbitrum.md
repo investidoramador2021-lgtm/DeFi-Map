@@ -9,9 +9,12 @@
 
 ## Lending & Borrowing
 
-- [Aave V3](https://aave.com/) Dominant lending protocol on Arbitrum with ~42% of chain TVL.
+- [Aave V3](https://aave.com/) Dominant lending protocol on Arbitrum.
   - [docs](https://aave.com/docs)
   - [github](https://github.com/aave)
+- [Morpho](https://morpho.org/) Permissionless lending protocol with optimized rate matching and permissionless market creation.
+  - [docs](https://docs.morpho.org/)
+  - [github](https://github.com/morpho-org)
 - [Fluid](https://fluid.io/) Unified lending and DEX protocol.
   - [docs](https://docs.fluid.instadapp.io/)
   - [github](https://github.com/Instadapp)
@@ -42,6 +45,9 @@
 - [Ramses Exchange](https://ramses.exchange/) ve(3,3) DEX native to Arbitrum.
   - [docs](https://docs.ramses.exchange/)
   - [github](https://github.com/RamsesExchange)
+- [SushiSwap](https://www.sushi.com/) Multi-chain DEX with significant trading volume share on Arbitrum.
+  - [docs](https://docs.sushi.com/)
+  - [github](https://github.com/sushi-labs)
 
 ## Derivatives
 
@@ -57,6 +63,8 @@
 
 ## Liquid Staking & Restaking
 
+- [wstETH (Lido)](https://lido.fi/) Largest liquid staking token on Arbitrum, widely used as collateral in Aave, Pendle, and Silo.
+  - [docs](https://docs.lido.fi/)
 - [ether.fi](https://www.ether.fi/) Decentralized, non-custodial liquid staking and restaking protocol.
   - [github](https://github.com/etherfi-protocol)
 - [Kelp DAO](https://kerneldao.com/kelp/) Multi-chain liquid restaking protocol.
@@ -74,8 +82,11 @@
 - [Beefy](https://beefy.finance/) Multi-chain yield optimizer.
   - [docs](https://docs.beefy.finance/)
   - [github](https://github.com/beefyfinance)
-- [Spark Savings](https://spark.fi/) Savings protocol offering yield on DAI/USDS deposits.
+- [Spark Savings](https://spark.fi/) Savings protocol offering yield on USDS deposits via Sky Savings Rate.
   - [docs](https://docs.spark.fi/)
+- [Spark Liquidity Layer](https://spark.fi/) Automated liquidity provisioning layer deploying USDS across DeFi protocols within the Sky ecosystem.
+  - [docs](https://docs.spark.fi/user-guides/spark-liquidity-layer)
+  - [github](https://github.com/sparkdotfi)
 
 ## Bridge
 
