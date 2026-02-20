@@ -27,6 +27,9 @@
 - [Fluid](https://fluid.io/) Unified lending and DEX protocol.
   - [docs](https://docs.fluid.instadapp.io/)
   - [github](https://github.com/Instadapp)
+- [Euler](https://www.euler.finance/) Modular lending protocol with permissionless market creation and customizable risk parameters.
+  - [docs](https://docs.euler.finance/)
+  - [github](https://github.com/euler-xyz)
 
 ## DEX
 
@@ -63,6 +66,8 @@
 - [Renzo](https://www.renzoprotocol.com/) Liquid restaking protocol with ezETH.
   - [docs](https://docs.renzoprotocol.com/)
   - [github](https://github.com/Renzo-Protocol)
+- [ether.fi](https://www.ether.fi/) Decentralized liquid staking and restaking protocol with weETH.
+  - [github](https://github.com/etherfi-protocol)
 
 ## Yield
 
@@ -78,6 +83,9 @@
   - [github](https://github.com/pendle-finance)
 - [Superform](https://superform.xyz/) Cross-chain yield aggregator.
   - [docs](https://docs.superform.xyz/)
+- [Spark Liquidity Layer](https://spark.fi/) Automated liquidity provisioning layer deploying USDS across DeFi protocols within the Sky ecosystem.
+  - [docs](https://docs.spark.fi/user-guides/spark-liquidity-layer)
+  - [github](https://github.com/sparkdotfi)
 
 ## Bridge
 
