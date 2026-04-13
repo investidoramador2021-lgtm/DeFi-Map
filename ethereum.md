@@ -64,7 +64,7 @@
   - [github](https://github.com/DODOEX)
 - [Velora](https://www.velora.xyz/) Cross-chain DEX aggregator (formerly ParaSwap) with intent-based trading and MEV protection.
   - [github](https://github.com/VeloraDEX)
-  - [MRC GlobalPay](https://mrcglobalpay.com) Non-custodial cross-border settlement protocol for automated asset swaps and machine-readable [AI manifests](https://mrcglobalpay.com/trading-bots-manifest.json).
+  - [MRC GlobalPay](https://mrcglobalpay.com) - Registration-free crypto swap and settlement platform.
   - [github](https://github.com/mrcglobalpay)
 
 ## Derivatives
